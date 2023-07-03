@@ -145,3 +145,6 @@ I learned a lot from this game. This might seem like a lot of text, but I ended 
 - Doing anything should be satisfying
 - Players should want to keep playing
 - Players should always have something to do
+- A game that looks bad won't be played
+
+Yeah so. Learned a lot. Pretty cool. Thanks for reading/skimming! [Play bugTDX here!](https://store.steampowered.com/app/2336160/bugTDX/)
