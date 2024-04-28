@@ -1,3 +1,5 @@
+#towers
+
 name | desc | tier
 --- | --- | ---
 Blazing Propellor | spins torrents of burning fire |
@@ -67,3 +69,28 @@ Nuclear Plant | isolated tower shoots radioactive barrels |
 Steel Fireworks | shoots a firework with durable stars |
 Minigun | isolated tower sprays bullets insanely fast |
 Rabbits Foot | shoots critical projectiles with faster reload each crit |
+
+#affixes
+
+Evaluation | increases sell value by 50% |
+Crit Chance | adds critical chance |
+Lucky Clover | doubles all chance based effects |
+Ultra Crit | critical chance is way less and damage is 5x |
+Tightly Packed | doubles firework firepower |
+Sharp Corners | homing is more accurate |
+Combustible | adds an explosive chance on impact |
+Heat Seeking | adds slight homing |
+Big Boom | increase explosive size |
+Accelerant | adds accelerant to a tower |
+Homing Ball | balls shot by this tower alternate between homing to the nearest enemy and nearest implement |
+Heart Attack | take dot per energise stack |
+Frostbite | take dot per slow stack |
+Laced Bullets | all bullets from this tower apply energise |
+Snowstorm | slow applies to nearby enemies |
+Huge Boom | triples explosive size |
+Strong Swing | flail projectiles swing faster |
+Sharp Tip | chance to inflict strong bleeding on impact |
+The Journey | bullets do more damage the further they travel |
+Ball Bullets | adds a 10% chance for bullets from this tower to act like a ball |
+Reload Rate | increase firerate by 50% |
+Balls Of Steel | doubles the durability of ball projectiles this tower shoots |
