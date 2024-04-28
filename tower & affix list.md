@@ -72,6 +72,8 @@ Rabbits Foot | shoots critical projectiles with faster reload each crit |
 
 #affixes
 
+name|desc|tier
+---|---|---
 Evaluation | increases sell value by 50% |
 Crit Chance | adds critical chance |
 Lucky Clover | doubles all chance based effects |
