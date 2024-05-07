@@ -38,5 +38,4 @@ def create_lua_store_pack():
         }}
     }}, '{pack_name}', {unlock_level})'''
 
-# Call the function
 create_lua_store_pack()
