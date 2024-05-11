@@ -36,6 +36,6 @@ def create_lua_store_pack():
             {{towers = 5, affixes = 2}},
             {{towers = 6, affixes = 2}}
         }}
-    }}, '{pack_name}', {unlock_level})'''
+    }}, '{pack_name.replace(' ', '_')}', {unlock_level})'''
 
 create_lua_store_pack()
